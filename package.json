@@ -1,7 +1,7 @@
 {
-  "name": "first-react-project",
+  "name": "first-react-app",
   "version": "1.0.0",
-  "description": "First React Project",
+  "description": "First React App",
   "main": "index.js",
   "scripts": {
     "test": "echo No test cases written && exit 1",
